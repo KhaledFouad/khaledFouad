@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE4Z25ndDZldGpscGVrZHN2ZGo2Z3lhejJueXN1c3hpYmZodnl3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"  />
 
 ###
@@ -61,7 +63,6 @@
   <a href=" https://my-portfolio-fouad.vercel.app/" target="_blank">
   </a>
 </div>
-
 ###
 
 <div align="center">
