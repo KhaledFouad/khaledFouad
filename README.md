@@ -14,12 +14,16 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🌟 About Me</h2>
 
-###
+<div align="left" style="width: 50%; border-top: 1px solid gray; margin-bottom: 20px;"></div>
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
+<p align="left">
+🔭 Currently working on: Building scalable Flutter applications with clean architecture<br>
+🌱 Learning: Advanced state management techniques & performance optimization<br>
+💡 Passionate about: Creating beautiful, performant cross-platform apps<br>
+⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+</p>
 ###
 
 <h2 align="left">I code with</h2>
