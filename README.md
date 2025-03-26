@@ -14,16 +14,16 @@
 
 ###
 
-<h2 align="left">🌟 About Me</h2>
+<h2 align="left">About me</h2>
 
-<hr align="left" width="50%" style="border: 1px solid gray; margin-bottom: 20px;">
+###
 
 <p align="left">
 🔭 Currently working on: Building scalable Flutter applications with clean architecture<br>
 🌱 Learning: Advanced state management techniques & performance optimization<br>
-💡 Passionate about: Creating beautiful, performant cross-platform apps<br>
-⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+💡 Passionate about: Creating performant cross-platform apps<br>
 </p>
+
 ###
 
 <h2 align="left">I code with</h2>
@@ -78,10 +78,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhaledFouad/KhaledFouad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhaledFouad/KhaledFouad/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KhaledFouad/KhaledFouad/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledFouad&radius=3&theme=tokyo-day&area=true&order=5&hide_title=false&hide_border=false" height="260" alt="activity-graph graph"  />
+</div>
 
 ###
