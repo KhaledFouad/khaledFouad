@@ -87,7 +87,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledFouad&radius=3&theme=tokyo-day&area=true&order=5&hide_title=false&hide_border=false" height="260" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledFouad&radius=3&theme=tokyo-day&area=true&order=5&hide_title=false&hide_border=false&custom_title=Khaled's%20Activity%20Graph" height="260" alt="activity-graph graph"  />
 </div>
 
 ###
