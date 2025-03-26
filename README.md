@@ -2,13 +2,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE4Z25ndDZldGpscGVrZHN2ZGo2Z3lhejJueXN1c3hpYmZodnl3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"  />
-</div>
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE4Z25ndDZldGpscGVrZHN2ZGo2Z3lhejJueXN1c3hpYmZodnl3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"  />
 
 ###
 
-<p align="left">My name is Khaled Fouad, and I'm a Flutter Developer from Cairo, Egypt.</p>
+<h3 align="left">My name is Khaled Fouad, and I'm a Flutter Developer from Cairo, Egypt.</h3>
 
 ###
 
@@ -61,14 +59,6 @@
 
 <div align="left">
   <a href=" https://my-portfolio-fouad.vercel.app/" target="_blank">
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/khaled-fouad-870508243/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
