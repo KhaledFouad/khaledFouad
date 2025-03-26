@@ -4,11 +4,13 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE4Z25ndDZldGpscGVrZHN2ZGo2Z3lhejJueXN1c3hpYmZodnl3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"  />
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE4Z25ndDZldGpscGVrZHN2ZGo2Z3lhejJueXN1c3hpYmZodnl3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"  />
+</div>
 
 ###
 
-<h3 align="left">My name is Khaled Fouad, and I'm a Flutter Developer from Cairo, Egypt.</h3>
+<h3 align="left">My name is Khaled Fouad, and I'm a Flutter Developer.</h3>
 
 ###
 
@@ -29,9 +31,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -39,6 +41,7 @@
 </div>
 
 ###
+
 <h2 align="left">🔗 Contact Me</h2>
 
 ###
@@ -47,21 +50,16 @@
 
 ###
 
-<div align="left">
-  <a href=" mailto:khaled.fouad20@outlook.com" target="_blank">
-  </a>
-</div>
-
-###
-
 <h4 align="left">🔗My Portfolio: https://my-portfolio-fouad.vercel.app/</h4>
 
 ###
 
 <div align="left">
-  <a href=" https://my-portfolio-fouad.vercel.app/" target="_blank">
+  <a href="https://www.linkedin.com/in/khaled-fouad-870508243/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
 ###
 
 <div align="center">
