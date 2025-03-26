@@ -16,7 +16,7 @@
 
 <h2 align="left">🌟 About Me</h2>
 
-<div align="left" style="width: 50%; border-top: 1px solid gray; margin-bottom: 20px;"></div>
+<hr align="left" width="50%" style="border: 1px solid gray; margin-bottom: 20px;">
 
 <p align="left">
 🔭 Currently working on: Building scalable Flutter applications with clean architecture<br>
