@@ -50,13 +50,19 @@
 
 ###
 
+<div align="left">
+  <a href=" mailto:khaled.fouad20@outlook.com" target="_blank">
+  </a>
+</div>
+
+###
+
 <h4 align="left">🔗My Portfolio: https://my-portfolio-fouad.vercel.app/</h4>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/khaled-fouad-870508243/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href=" https://my-portfolio-fouad.vercel.app/" target="_blank">
   </a>
 </div>
 
