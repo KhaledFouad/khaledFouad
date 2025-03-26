@@ -48,6 +48,13 @@
 
 ###
 
+<div align="left">
+  <a href=" mailto:khaled.fouad20@outlook.com" target="_blank">
+  </a>
+</div>
+
+###
+
 <h4 align="left">🔗My Portfolio: https://my-portfolio-fouad.vercel.app/</h4>
 
 ###
