@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Khaled Fouad</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&center=true&vCenter=true&width=760&lines=Junior+Software+Tester+(QA);Manual+Testing+%7C+API+Testing+(Postman);Learning+Automation+(Selenium%2FTestNG)+%26+Performance+(JMeter);Flutter+%26+UX+background+%E2%80%94+User-first+testing+mindset">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&center=true&vCenter=true&width=760&lines=Junior+Software+Tester;Manual+Testing+%7C+API+Testing+(Postman);Learning+Automation+(Selenium%2FTestNG)+%26+Performance+(JMeter);Flutter+%26+UX+background+%E2%80%94+User-first+testing+mindset">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&center=true&vCenter=true&width=760&lines=Junior+Software+Tester+(QA);Manual+Testing+%7C+API+Testing+(Postman);Automation+(Selenium%2FTestNG)+%26+Performance+(JMeter);Flutter+%26+UX+background+%E2%80%94+User-first+testing+mindset" />
   </a>
 </p>
