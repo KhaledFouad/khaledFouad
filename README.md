@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&center=true&vCenter=true&width=850&lines=Software+Tester+%7C+Manual%2C+API+%26+Automation+Testing;Implementation+Engineer+%7C+Healthcare+Software;Selenium+%7C+TestNG+%7C+Postman+%7C+Cucumber;Flutter+%26+UX+Background+%7C+User-First+Testing"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&center=true&vCenter=true&width=850&lines=Software+Tester+%7C+Manual%2C+API+%26+Automation+Testing;Software+Tester+%7C+Healthcare+Software;Selenium+%7C+TestNG+%7C+Postman+%7C+Cucumber;Flutter+%26+UX+Background+%7C+User-First+Testing"
       alt="Typing introduction"
     />
   </a>
@@ -36,15 +36,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Tester and Healthcare Software Implementation Engineer with hands-on experience in:
+I'm a Software Tester with hands-on experience in:
 
-- Manual functional, system, regression and workflow-based testing
-- Test case design, execution and defect reporting
+- Manual functional, system, smoke, regression and workflow-based testing
+- Test case design, execution, defect reporting and fix retesting
 - REST API testing using Postman
 - UI automation using Java, Selenium and TestNG
 - BDD scenarios using Cucumber and Gherkin
+- Healthcare workflows across HIS/ERP, EMR, RIS and PACS
 - Banking workflow testing and business-process validation
-- Healthcare systems, including HIS, EMR, RIS and PACS
 - Basic performance testing using JMeter
 
 I also have a Flutter and UX background, which helps me test applications from both technical and user-experience perspectives.
@@ -55,14 +55,15 @@ I am currently preparing for the ISTQB Foundation Level certification.
 
 ## 💼 Current Role
 
-### Implementation Engineer — MILLENSYS
+### Software Tester — MILLENSYS
 
 `November 2026 – Present`
 
-- Support the implementation of healthcare software based on customer operational workflows.
-- Work with Hospital Information Systems and ERP modules.
-- Gain practical domain knowledge across EMR, RIS and PACS workflows.
-- Collaborate with customers and technical teams during system implementation.
+- Execute primarily manual functional, smoke, regression and end-to-end testing across healthcare software modules.
+- Work across HIS/ERP, EMR, RIS and PACS workflows.
+- Translate operational workflows and requirements into positive, negative and boundary test scenarios.
+- Validate UI behavior, workflow transitions and data accuracy.
+- Document defects with clear reproduction steps and evidence, then retest fixes to confirm resolution.
 
 ---
 
@@ -104,12 +105,10 @@ I am currently preparing for the ISTQB Foundation Level certification.
 ## ✅ Testing Skills
 
 - Test planning and test case design
-- Functional testing
-- System testing
-- Regression and smoke testing
+- Functional, system, regression and smoke testing
 - Requirements and BRD validation
 - Positive, negative and boundary testing
-- Defect reporting and tracking
+- Defect reporting, tracking and retesting
 - REST API testing
 - UI automation testing
 - Database and SQL testing
@@ -177,7 +176,7 @@ I am currently preparing for the ISTQB Foundation Level certification.
 - Used explicit waits for reliable test execution.
 - Implemented data-driven testing using TestNG DataProvider.
 
-<!-- Add the Noon.com repository link here when available. -->
+🔗 [View repository](https://github.com/KhaledFouad/Noon_Automation)
 
 ### 🎵 Spotify Web API — API Testing
 
